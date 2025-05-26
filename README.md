@@ -2,7 +2,6 @@
 
 ## Overview
 A simple student management system app using:
-- **Frontend**: React.js
 - **Backend**: Spring Boot with JPA
 - **Database**: MYSQL
 
@@ -31,16 +30,6 @@ A simple student management system app using:
    mvn spring-boot:run
    ```
 
-### Frontend:
-1. Navigate to the frontend folder:
-   ```sh
-   cd ../frontend
-   ```
-2. Install dependencies and start:
-   ```sh
-   npm install
-   npm start
-   ```
 
 ## API Endpoints
 | Method | Endpoint         | Description      |
